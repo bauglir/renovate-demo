@@ -1,0 +1,10 @@
+---
+name: "GitHub Action with Dependencies"
+
+on:
+  workflow_dispatch:
+
+steps:
+  checkout:
+    - name: "Check out the repository"
+      uses: "actions/checkout@4"
