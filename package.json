@@ -1,0 +1,7 @@
+{
+  "name": "renovate-demo",
+  "description": "A project to demonstrate Renovate onboarding and configuration",
+  "devDependencies": {
+    "renovate": "^35.12.0"
+  }
+}
